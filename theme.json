@@ -3,10 +3,10 @@
     "TransparenciaContenedordelElementos": 0.5,
     "TamanoContenedor": "1,0,0,40",
     "TransparenciaContenedor": 0.3,
-    "FrameContenedor": "15,15,15",
-    "bordes": "30,30,30",
-    "bordecuadro": "50,50,50",
-    "main": "65,65,65",
-    "ColorContenedordelElementos": "85,85,85",
-    "textcolor": "255,255,255"
+    "FrameContenedor": "0,0,255",           // Azul
+    "bordes": "0,0,200",                     // Azul más oscuro
+    "bordecuadro": "0,0,150",                // Azul aún más oscuro
+    "main": "0,0,180",                       // Azul intermedio
+    "ColorContenedordelElementos": "255,255,255", // Blanco
+    "textcolor": "255,255,255"               // Blanco
 }
