@@ -1,12 +1,12 @@
 {
-    "redondoContenedor": 8,
-    "TransparenciaContenedordelElementos": 0.2,
+    "redondoContenedor": 3,
+    "TransparenciaContenedordelElementos": 0.5,
     "TamanoContenedor": "1,0,0,40",
-    "TransparenciaContenedor": 0.15,
-    "FrameContenedor": "30,0,0",
-    "bordes": "255,0,0",
-    "bordecuadro": "255,255,255",
-    "main": "255,0,0",
-    "ColorContenedordelElementos": "0,100,0",
-    "textcolor": "255,255,224"
+    "TransparenciaContenedor": 0.3,
+    "FrameContenedor": "15,15,15",
+    "bordes": "30,30,30",
+    "bordecuadro": "50,50,50",
+    "main": "65,65,65",
+    "ColorContenedordelElementos": "85,85,85",
+    "textcolor": "255,255,255"
 }
