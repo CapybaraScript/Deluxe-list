@@ -1,0 +1,12 @@
+{
+    "redondoContenedor": 8,
+    "TransparenciaContenedordelElementos": 0.3,
+    "TamanoContenedor": "UDim2.new(1, 0, 0, 40)",
+    "TransparenciaContenedor": 0.2,
+    "FrameContenedor": "Color3.fromRGB(0, 40, 0)",
+    "bordes": "Color3.fromRGB(220, 53, 69)",
+    "bordecuadro": "Color3.fromRGB(255, 183, 197)",
+    "main": "Color3.fromRGB(220, 53, 69)",
+    "ColorContenedordelElementos": "Color3.fromRGB(0, 80, 0)",
+    "textcolor": "Color3.fromRGB(255, 255, 255)"
+}
