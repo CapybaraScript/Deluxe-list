@@ -2,7 +2,7 @@
     "redondoContenedor": 3,
     "TransparenciaContenedordelElementos": 0.5,
     "TamanoContenedor": "1,0,0,40",
-    "TransparenciaContenedor": 0.3,
+    "TransparenciaContenedor": 0.5,
     "FrameContenedor": "40,40,120",
     "bordes": "30,30,90",
     "bordecuadro": "20,20,70",
