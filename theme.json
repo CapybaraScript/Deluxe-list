@@ -1,8 +1,8 @@
 {
-    "redondoContenedor": 4,
-    "TransparenciaContenedordelElementos": 0.9,
+    "redondoContenedor": 5,
+    "TransparenciaContenedordelElementos": 0.7,
     "TamanoContenedor": "1,0,0,43",
-    "TransparenciaContenedor": 0.8,
+    "TransparenciaContenedor": 0.9,
     "FrameContenedor": "70,100,180",
     "bordes": "50,70,150",
     "bordecuadro": "40,60,140",
