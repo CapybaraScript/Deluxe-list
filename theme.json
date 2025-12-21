@@ -1,7 +1,7 @@
 {
-    "redondoContenedor": 5,
+    "redondoContenedor": 3,
     "TransparenciaContenedordelElementos": 0.7,
-    "TamanoContenedor": "1,0,0,30",
+    "TamanoContenedor": "1,0,0,35",
     "TransparenciaContenedor": 0.9,
     "FrameContenedor": "70,100,180",
     "bordes": "50,70,150",
