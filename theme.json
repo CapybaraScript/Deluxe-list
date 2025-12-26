@@ -1,14 +1,14 @@
 {
-    redondoContenedor = 4,
-    TransparenciaContenedordelElementos = .9,
-    TamanoContenedor = UDim2.new(1, 0, 0, 35),
-    TransparenciaContenedor = 0.75,
-    FrameContenedor = Color3.fromRGB(0, 0, 225),
-    bordes = Color3.fromRGB(0, 0, 225),
-    bordecuadro = Color3.fromRGB(0, 0, 225),
-    main = Color3.fromRGB(3, 3, 3),
-    ColorContenedordelElementos = Color3.fromRGB(0, 0, 225),
-    textcolor = Color3.fromRGB(255, 255, 255),
-    mainframeImage = "rbxassetid://",
-    mainframeImageTransparency = 0.7
+  "redondoContenedor": 4,
+  "TransparenciaContenedordelElementos": 0.9,
+  "TamanoContenedor": 35,
+  "TransparenciaContenedor": 0.75,
+  "FrameContenedor": "0,0,225",
+  "bordes": "0,0,225",
+  "bordecuadro": "0,0,225",
+  "main": "3,3,3",
+  "ColorContenedordelElementos": "0,0,225",
+  "textcolor": "255,255,255",
+  "mainframeImage": "rbxassetid://",
+  "mainframeImageTransparency": 0.7
 }
