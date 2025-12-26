@@ -1,14 +1,14 @@
 {
-    "redondoContenedor": 3
-    "TransparenciaContenedordelElementos": 0.7,
-    "TamanoContenedor": "1,0,0,35",
-    "TransparenciaContenedor": 0.9,
-    "FrameContenedor": "70,100,180",
-    "bordes": "50,70,150",
-    "bordecuadro": "40,60,140",
-    "main": "60,90,170",
-    "ColorContenedordelElementos": "90,120,200",
-    "textcolor": "220,230,255",
-    "mainframeImage": "rbxassetid://106250148877184",
-    "mainframeImageTransparency": 0.8
+    redondoContenedor = 4,
+    TransparenciaContenedordelElementos = .9,
+    TamanoContenedor = UDim2.new(1, 0, 0, 35),
+    TransparenciaContenedor = 0.75,
+    FrameContenedor = Color3.fromRGB(0, 0, 225),
+    bordes = Color3.fromRGB(0, 0, 225),
+    bordecuadro = Color3.fromRGB(0, 0, 225),
+    main = Color3.fromRGB(3, 3, 3),
+    ColorContenedordelElementos = Color3.fromRGB(0, 0, 225),
+    textcolor = Color3.fromRGB(255, 255, 255),
+    mainframeImage = "rbxassetid://",
+    mainframeImageTransparency = 0.7
 }
